@@ -10,4 +10,5 @@ To run this app: -
 7. First 2 questions would be general knowladge based
 8. Remaining 8 will be java related questions
 9. Make sure to run the SQL code in MySQL before using
+10. Login with a password u have entered in SQL in table user yet to make a Sign Up feature for this app
 

@@ -13,8 +13,8 @@ public class DBConnection {
             Class.forName("com.mysql.cj.jdbc.Driver");
             // Database URL
             String url = "jdbc:mysql://localhost:3306/online_exam";
-            String username = "root";  
-            String password = "Yug&daksh2023";  
+            String username = "";  
+            String password = "";  
 
             // Establish connection
             conn = DriverManager.getConnection(url, username, password);
